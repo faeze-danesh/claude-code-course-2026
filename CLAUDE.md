@@ -1,21 +1,11 @@
-# CLAUDE.md
+# About Me
 
-## About me
+I am learning front-end development and AI tools.
 
-**My background:**
+I learn best with step-by-step explanations and simple examples.
 
-**My experience with JavaScript/Node:**
+I prefer short and clear answers.
 
-**What I find most confusing so far:**
+When I ask questions, I want explanations like I'm a beginner.
 
-## How I learn best
-
-**Explanation style I prefer:**
-
-**When I'm stuck, I want Claude to:**
-
-## How to talk to me
-
-**Tone and communication preferences:**
-
-## Project context
+I am currently focusing on understanding how AI coding assistants work.
